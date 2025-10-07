@@ -82,55 +82,55 @@
 ## 2.2 Интерфейс пользователя
 Окно входа в приложение.  
 
-![Окно входа в приложение](https://github.com/MaxGrinderAfk/jcrpoLabi/blob/main/mockups/SignInOrSignUpMockup.png)  
+![Окно входа в приложение](https://github.com/MaxGrinderAfk/jcrpoLabi/blob/main/documents/mockups/SignInOrSignUpMockup.png)  
 
 Окно регистрации нового пользователя.  
 
-![Окно регистрации нового пользователя](https://github.com/MaxGrinderAfk/jcrpoLabi/blob/main/mockups/SigningUpMockup.png) 
+![Окно регистрации нового пользователя](https://github.com/MaxGrinderAfk/jcrpoLabi/blob/main/documents/mockups/SigningUpMockup.png) 
 
 Окно входа для зарегистрированного пользователя.  
 
-![Окно входа для зарегистрированного пользователя](https://github.com/MaxGrinderAfk/jcrpoLabi/blob/main/mockups/SigningInMockup.png).
+![Окно входа для зарегистрированного пользователя](https://github.com/MaxGrinderAfk/jcrpoLabi/blob/main/documents/mockups/SigningInMockup.png).
 
 Главное окно приложения. 
 
-![Главное окно приложения](https://github.com/MaxGrinderAfk/jcrpoLabi/blob/main/mockups/DashboardMockup.png)  
+![Главное окно приложения](https://github.com/MaxGrinderAfk/jcrpoLabi/blob/main/documents/mockups/DashboardMockup.png)  
 
 Окно установки нового значения семейного бюджета и периода на который он планируется. 
 
-![Окно установки нового значения семейного бюджета и периода на который он планируется](https://github.com/MaxGrinderAfk/jcrpoLabi/blob/main/mockups/SetNewFamilyBudget.png)
+![Окно установки нового значения семейного бюджета и периода на который он планируется](https://github.com/MaxGrinderAfk/jcrpoLabi/blob/main/documents/mockups/SetNewFamilyBudget.png)
 
 Сообщение об успешной установке семейного бюджета. 
 
-![Сообщение об успешной установке семейного бюджета](https://github.com/MaxGrinderAfk/jcrpoLabi/blob/main/mockups/BudgetUpdatedInfoMockup.png)
+![Сообщение об успешной установке семейного бюджета](https://github.com/MaxGrinderAfk/jcrpoLabi/blob/main/documents/mockups/BudgetUpdatedInfoMockup.png)
 
 Окно добавления новой транзакции. 
 
-![Окно добавления новой транзакции](https://github.com/MaxGrinderAfk/jcrpoLabi/blob/main/mockups/RegisterTransactionMockup.png)
+![Окно добавления новой транзакции](https://github.com/MaxGrinderAfk/jcrpoLabi/blob/main/documents/mockups/RegisterTransactionMockup.png)
 
 Сообщение об успешном добавлении новой транзакции. 
 
-![Сообщение об успешном добавлении новой транзакции](https://github.com/MaxGrinderAfk/jcrpoLabi/blob/main/mockups/TransactionAddedInfoMockup.png)
+![Сообщение об успешном добавлении новой транзакции](https://github.com/MaxGrinderAfk/jcrpoLabi/blob/main/documents/mockups/TransactionAddedInfoMockup.png)
 
 Окно статистики распределения семейного бюджета по категориям расходов. 
 
-![Окно статистики распределения семейного бюджета по категориям расходов](https://github.com/MaxGrinderAfk/jcrpoLabi/blob/main/mockups/StatisticMockup.png) 
+![Окно статистики распределения семейного бюджета по категориям расходов](https://github.com/MaxGrinderAfk/jcrpoLabi/blob/main/documents/mockups/StatisticMockup.png) 
 
 Окно вывода информации о выбранной транзакции. 
 
-![Окно вывода информации о выбранной транзакции](https://github.com/MaxGrinderAfk/jcrpoLabi/blob/main/mockups/TransactionInfoMockup.png)  
+![Окно вывода информации о выбранной транзакции](https://github.com/MaxGrinderAfk/jcrpoLabi/blob/main/documents/mockups/TransactionInfoMockup.png)  
 
 Окно категорий транзакций.  
 
-![Окно категорий транзакций](https://github.com/MaxGrinderAfk/jcrpoLabi/blob/main/mockups/TransactionsCategoriesMockup.png)  
+![Окно категорий транзакций](https://github.com/MaxGrinderAfk/jcrpoLabi/blob/main/documents/mockups/TransactionsCategoriesMockup.png)  
 
 Окно транзакций каждой категории (в данном случае категории еды).  
 
-![Окно транзакций каждой категории (в данном случае категории еды)](https://github.com/MaxGrinderAfk/jcrpoLabi/blob/main/mockups/CategoryTransactionsListMockup.png) 
+![Окно транзакций каждой категории (в данном случае категории еды)](https://github.com/MaxGrinderAfk/jcrpoLabi/blob/main/documents/mockups/CategoryTransactionsListMockup.png) 
 
 Окно с информацией о текущем пользователе.  
 
-![Окно с информацией о текущем пользователе](https://github.com/MaxGrinderAfk/jcrpoLabi/blob/main/mockups/ProfileMockup.png)  
+![Окно с информацией о текущем пользователе](https://github.com/MaxGrinderAfk/jcrpoLabi/blob/main/documents/mockups/ProfileMockup.png)  
 
 <a name="user_specifications"/>
 
