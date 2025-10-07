@@ -57,4 +57,4 @@ TasksAndProjectsManager/
 Приветствуются любые предложения по улучшению проекта! Если у вас есть идеи или вы нашли баг, пожалуйста, создайте issue или отправьте pull request.
 
 ### Спецификация требований программного обеспечения
-Ознакомиться со спецификаций требований программного обеспечения приложения можно [тут](https://github.com/MaxGrinderAfk/jcrpoLabi/blob/main/requirements/SRS.md)
+Ознакомиться со спецификаций требований программного обеспечения приложения можно [тут](https://github.com/MaxGrinderAfk/jcrpoLabi/blob/main/documents/requirements/SRS.md)
